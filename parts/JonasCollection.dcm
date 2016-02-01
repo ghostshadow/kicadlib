@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EA_DOG-Mxxx-A
+D EA DOG-Mxxx-A 2x16 Dot Matrix Display
+K Display,DotMatrix
+$ENDCMP
+#
+$CMP RV-2123-C2
+D Integrated Real-time Clock with SPI interface
+K RTC,SPI,MCS
+$ENDCMP
+#
+#End Doc Library
